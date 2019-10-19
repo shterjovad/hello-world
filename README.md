@@ -2,4 +2,4 @@
 just another repository
 
 Hi there!
-Dona here, what's up?
+I'm Dona, what's up?
